@@ -1,5 +1,5 @@
 # Year-3
-Centralized repository for III Year CSE (AIML) – CMRCET: neatly organized lab codes and complete unit-wise notes for all Sem 5 subjects (Too be added in future).
+Centralized repository for III Year CSE (AIML) – CMRCET: neatly organized lab codes and complete unit-wise notes for all Sem 5 subjects (To be added in future).
 
 ## Textbooks
 
