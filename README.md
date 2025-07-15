@@ -3,6 +3,6 @@ Centralized repository for III Year CSE (AIML) – CMRCET: neatly organized lab 
 
 ## Textbooks
 
-- Machine Learning [ML]: [Google Drive Link](https://drive.google.com/file/d/1KBnM3_5PTNzR9qe-NcOjayoPZj4rR-8k/view?usp=sharing)
-- Deep Learning [DL]: [Google Drive Link](https://drive.google.com/file/d/1zk9c8p2Ap5fT1mYRnzI0-Rr7AT038N0H/view?usp=sharing)
-- Fundamentals of Computer Algorithms [DAA]: [Google Drive Link](https://drive.google.com/file/d/1Xp3MeiQ1nwFInj7ItAY4PXaN9NQuVOBG/view?usp=sharing)
+- Machine Learning [ML]: [Machine Learning by Stephen Marsland](https://drive.google.com/file/d/1KBnM3_5PTNzR9qe-NcOjayoPZj4rR-8k/view?usp=sharing)
+- Deep Learning [DL]: [Deep Learning by Ian Goodfellow](https://drive.google.com/file/d/1zk9c8p2Ap5fT1mYRnzI0-Rr7AT038N0H/view?usp=sharing)
+- Fundamentals of Computer Algorithms [DAA]: [Fundamentals of Computer Algorithms](https://drive.google.com/file/d/1Xp3MeiQ1nwFInj7ItAY4PXaN9NQuVOBG/view?usp=sharing)
