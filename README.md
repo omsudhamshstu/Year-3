@@ -3,6 +3,8 @@ Centralized repository for III Year CSE (AIML) – CMRCET: neatly organized lab 
 
 ## Textbooks
 Syllabus: [Syllabus, Year-III, SEM - I or V](https://drive.google.com/file/d/1f-4lcoSIq2iMwYElZsc783XlwY5nEzPa/view?usp=sharing)
-- Machine Learning [ML]: [Machine Learning by Stephen Marsland](https://drive.google.com/file/d/1KBnM3_5PTNzR9qe-NcOjayoPZj4rR-8k/view?usp=sharing)
-- Deep Learning [DL]: [Deep Learning by Ian Goodfellow](https://drive.google.com/file/d/1zk9c8p2Ap5fT1mYRnzI0-Rr7AT038N0H/view?usp=sharing)
-- Fundamentals of Computer Algorithms [DAA]: [Fundamentals of Computer Algorithms](https://drive.google.com/file/d/1Xp3MeiQ1nwFInj7ItAY4PXaN9NQuVOBG/view?usp=sharing)
+| Subject Code | Subject Name | Book Title | PDF Link |
+|--------------|--------------|------------|----------|
+| ML | Machine Learning | *Machine Learning* by Stephen Marsland | [Download](https://drive.google.com/file/d/1KBnM3_5PTNzR9qe-NcOjayoPZj4rR-8k/view?usp=sharing) |
+| DL | Deep Learning | *Deep Learning* by Ian Goodfellow | [Download](https://drive.google.com/file/d/1zk9c8p2Ap5fT1mYRnzI0-Rr7AT038N0H/view?usp=sharing) |
+| DAA | Fundamentals of Computer Algorithms | *Fundamentals of Computer Algorithms* | [Download](https://drive.google.com/file/d/1Xp3MeiQ1nwFInj7ItAY4PXaN9NQuVOBG/view?usp=sharing) |
