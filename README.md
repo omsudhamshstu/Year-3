@@ -1,7 +1,7 @@
 # Year-3 | Internal, External Codes
 Centralized repository for III Year CSE (AIML) – CMRCET: neatly organized lab codes and complete unit-wise notes for all Sem 5 subjects (To be added in future).
 
-### ```Internal, External Codes``` | **New**
+### ```Internal, External Codes``` | **Short and Verified**
 - Computer Network Codes(s): [CN Codes Repo](https://github.com/omsudhamshstu/Year-3/tree/main/Computer%20Networks)
 - Deep Learning Laboratory Code(s): [Click here: Colab File](https://colab.research.google.com/drive/1H5dkDOika1dw_t8bTE4WNw-mNV696jae?usp=sharing)
 - Machine Learning Laboratory Codes(s): [Click here: Colab File](example.com)
