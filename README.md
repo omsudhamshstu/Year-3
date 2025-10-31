@@ -4,7 +4,8 @@ Centralized repository for III Year CSE (AIML) – CMRCET: neatly organized lab 
 ### ```Internal, External Codes``` | **Short and Verified**
 - Computer Network Codes(s): [CN Codes Repo](https://github.com/omsudhamshstu/Year-3/tree/main/Computer%20Networks)
 - Deep Learning Laboratory Code(s): [Click here: Colab File](https://colab.research.google.com/drive/1H5dkDOika1dw_t8bTE4WNw-mNV696jae?usp=sharing)
-- Machine Learning Laboratory Codes(s): [Click here: Colab File](example.com)
+- Machine Learning Laboratory Codes(s): [Click here: Medium Codes](https://colab.research.google.com/drive/1-9M6LthEubkUDhzLrSJrfbC7NsUClBBg?usp=sharing) or [Click here: Short Codes](https://colab.research.google.com/drive/1aTfWEeH6ZfciA7kAB5t8UwBbxJWTmX4t?usp=sharing)
+- UI Flutter laboratory Code(s): []()
 
 ## Textbooks
 Syllabus: [Syllabus, Year-III, SEM - I or V](https://drive.google.com/file/d/1f-4lcoSIq2iMwYElZsc783XlwY5nEzPa/view?usp=sharing)
