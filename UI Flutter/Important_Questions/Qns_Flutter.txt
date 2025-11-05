@@ -1,0 +1,12 @@
+1) Define Flutter and write the steps to install Flutter SDK in Ubuntu. 
+2) Write a "Hello World" program using Stateless and Stateful widgets. 
+3) Write an example program to demonstrate decision-making statements in Dart. 
+4) Write an example program to demonstrate looping statements in Dart. 
+5) Write an example program to demonstrate inheritance in Dart.
+6) Demonstrate how to implement functions in Dart.
+7) Write a Dart program to implement the RichText widget.
+8) Write a Dart program to display a popup menu button widget. 
+9) Write a Dart program to demonstrate a TextField widget. 
+10) Write a Dart program to insert an image in an application window. 
+11) Write a Dart program to implement the Container widget. 
+12) Write a Dart program to demonstrate the Floating Action Button widget.
